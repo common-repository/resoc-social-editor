@@ -1,0 +1,22 @@
+{
+  "name": "resoc-social-editor",
+  "version": "0.0.1",
+  "description": "=== Resoc Social Editor ===\r Contributors:  phbernard\r Tags: social, facebook, wordpress, plugin\r Requires at least: 4.0\r Tested up to: 4.6.1\r Stable tag: 1.0\r License: GPLv2 or later\r License URI: http://www.gnu.org/licenses/gpl-2.0.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@projects.philippebernard.fr/philippebernard/resoc-social-editor.git"
+  },
+  "author": "Philippe Bernard",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0"
+  }
+}

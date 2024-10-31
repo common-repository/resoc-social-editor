@@ -1,0 +1,85 @@
+.rse-editor {
+
+  .rse-by-resoc-title {
+    h3 {
+      display: inline-block !important;
+    }
+
+    .rse-feeback-link a {
+      color: inherit;
+      font-style: italic;
+    }
+  }
+
+  .rse-platform-switcher-container {
+    button {
+      margin-right: 1em;
+      margin-bottom: 1em;
+    }
+  }
+
+  .rse-preview-container {
+    float: right;
+    width: 574px;
+  }
+
+  .open-graph-editor-container > div {
+    text-align: center;
+  }
+
+  .rse-fields {
+    overflow: auto;
+    padding-right: 12px;
+
+    td {
+      width: 100%;
+    }
+
+    input[type="text"], textarea {
+      width: 100%;
+    }
+  }
+
+  .rse-clear-fix {
+    clear: both;
+  }
+
+  .rse-image-selection-container {
+    margin-top: 12px;
+  }
+
+  h3 a {
+    color: inherit;
+  }
+
+  label em {
+    font-weight: normal;
+  }
+
+  .rse-image-selection-container {
+    button, a {
+      margin-bottom: 3px;
+    }
+  }
+}
+
+.rse-overlay-preview-img {
+  max-width: 516px;
+  max-height: 271px;
+  background-repeat: repeat;
+}
+
+.rse-overlay-editor-container {
+  text-align: center;
+}
+
+.rse-overlay-editor-inner-container {
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+  text-align: left;
+}
+
+.rse-overlay-creation-button-container {
+  margin-top: 10px;
+}
